@@ -1,4 +1,4 @@
-# 🎉 Event Management System
+<img width="1845" height="920" alt="Screenshot 2025-05-14 133246" src="https://github.com/user-attachments/assets/e37b21ce-1b81-4a92-8ef2-c876be39bcea" /># 🎉 Event Management System
 
 An **Event Management System** built using **Java, MySQL, HTML, CSS, and JavaScript**.  
 This project allows users to create, manage, and participate in events while providing administrators tools to oversee the system.
@@ -68,12 +68,6 @@ java Main
 Open frontend/index.html in a browser
 
 Or use Live Server (VS Code extension) for better experience.
-
-📸 Screenshots
-<img width="1845" height="920" alt="Screenshot 2025-05-14 133246" src="https://github.com/user-attachments/assets/99aad18f-5623-4998-817d-e82bc35728c2" />
-![Uploading Screenshot 2025-05-14 133436.png…]()
-![Uploading Screenshot 2025-05-14 133539.png…]()
-
 
 📄 License
 This project is licensed under the MIT License.
